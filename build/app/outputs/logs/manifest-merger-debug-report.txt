@@ -1,0 +1,504 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:1:1-36:12
+MERGED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:1:1-36:12
+MERGED from [:flutter_full_pdf_viewer] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\flutter_full_pdf_viewer\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:cloud_firestore] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_auth] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:image_picker] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_ex] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\path_provider_ex\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_cropper] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:open_file] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-24:12
+MERGED from [:flutter_statusbarcolor] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\flutter_statusbarcolor\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\3adbe5e0d22a90d80ae09f89de45b8d6\jetified-android-pdf-viewer-2.8.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\cdbd4d86045f4ac1509678c8262a2360\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\1ff18b17db3d55e37ef29998d2f14b01\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\3d2346f77cde9726d2b5e612f4194e6b\firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\7d785a340783680934d6233ed99674ab\jetified-firebase-common-20.0.0\AndroidManifest.xml:15:1-40:12
+MERGED from [com.github.yalantis:ucrop:2.2.7] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\2612d5a8fb39e0de47f325f9044b97c4\ucrop-2.2.7\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\44944419d1b8aafabe40115dcb661c75\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\2219bc8eab4b2e55803881dec76cec8a\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\554d4b275ed56cf91c4d207d77bd63de\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\646de526d41c26bd24be982952b37e9b\jetified-pdfium-android-1.7.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\00c31c73e3b276590137271a241d70cf\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\3c4ac8efc6a4eae1bbb98eb7b3ef011d\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\abe8e55c745985941db7ec096b763748\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\fa21b137817032632155ab42d82708de\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\fc9a1df8b054c948d8b81cec93eaafd5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\20761deb0bf7df12cf9f92e87d4fa57a\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\88fc16e2c0d4d4869590c4bb9f369c51\play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\a48c90d9b2b7ac49d524413f4280d62b\firebase-database-collection-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\a2c962e9af3176d0811c8d8279f6afc9\play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\73453b05b4beb24fa162a13fbb335d13\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\5fe9b27af78401f34daa1d3b965b5e01\jetified-play-services-basement-17.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\60ea119ae88624c226bac4493fe7df90\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\a745acb42cc27dbcf85cc03335d46435\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\53f02df9f762b0a77e88437cd652d3a2\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\90ff6e10bce2c9989206f6fceada4b0f\activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\05aed516941fcaab54be40255ccf10f3\appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\62fc40acc097d658c76e45a7f364b700\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\0e72f5930aaf09e61d3bfce587443d9f\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\1ad35fe7bdf6cf1f773e76ad9136c5db\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\6f97eb0c454d6f644d556d589d50350d\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\074fc2707a371335802bb4efe972322e\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\3c2825570e777dcbfc9c898476268418\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\a536df8d47be681a7d8bd8618b10a5bc\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\21bc6e7e66744caed47d2b4c2eebc7cc\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\1805489a863a0f66145bf38ac031fa6e\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\7c9daea49f1b172b530bc977f3a7d796\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\738a08a02af7c8f60ea48846f60fe0d1\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\0d70449dc7572d725ad85579b5a4d8fc\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\e416c620a0b8990b0531dd26d517b8af\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\8b2cbf815ae2fbc858171b9aa71492f7\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\fa18a8c8b68283be35770fa17fa1d002\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\83d7fa5c6450c042d9e054a5809a02ab\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\04f5f3a1f68d8d58ca7fa86a9130ae2e\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\daaa6850005c62f99f6c82bd76af5d58\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\b70276516a307c8b999f7daed7bc5be4\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\e3ccb0d5021569bea28d38c908d3a343\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\84ac0d66fe2789f4c10890cfea6e2bbf\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\b7ebc3f578ad21192e0673fadb23156e\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\f37a8af050140272ba721a8926ead07b\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\386e74402932fccaad3c1a6f0bf85a82\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [io.grpc:grpc-android:1.41.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\9b5e6d4e2a3d5d9a3fabf71d41cf0027\grpc-android-1.41.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\e1c22183e1dfcf67e2a5580870cacefa\protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\ef60d468518f9d46559dc2ea0cb6209d\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:2:5-50
+		INJECTED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:9:5-35:19
+MERGED from [:cloud_firestore] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:open_file] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-22:19
+MERGED from [:open_file] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\cdbd4d86045f4ac1509678c8262a2360\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\cdbd4d86045f4ac1509678c8262a2360\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\1ff18b17db3d55e37ef29998d2f14b01\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\1ff18b17db3d55e37ef29998d2f14b01\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\3d2346f77cde9726d2b5e612f4194e6b\firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\3d2346f77cde9726d2b5e612f4194e6b\firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\7d785a340783680934d6233ed99674ab\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\7d785a340783680934d6233ed99674ab\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\88fc16e2c0d4d4869590c4bb9f369c51\play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\88fc16e2c0d4d4869590c4bb9f369c51\play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\a2c962e9af3176d0811c8d8279f6afc9\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\a2c962e9af3176d0811c8d8279f6afc9\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\73453b05b4beb24fa162a13fbb335d13\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\73453b05b4beb24fa162a13fbb335d13\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\5fe9b27af78401f34daa1d3b965b5e01\jetified-play-services-basement-17.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\5fe9b27af78401f34daa1d3b965b5e01\jetified-play-services-basement-17.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\1805489a863a0f66145bf38ac031fa6e\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\1805489a863a0f66145bf38ac031fa6e\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\7c9daea49f1b172b530bc977f3a7d796\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\7c9daea49f1b172b530bc977f3a7d796\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\1805489a863a0f66145bf38ac031fa6e\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:11:9-42
+	android:icon
+		ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:10:9-57
+activity#comdesign.example.image_picker_test.MainActivity
+ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:13:9-25:20
+	android:launchMode
+		ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:19:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:20:13-55
+	android:configChanges
+		ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:18:13-163
+	android:theme
+		ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:17:13-47
+	android:name
+		ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:26:9-29:71
+	android:screenOrientation
+		ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:28:13-49
+	android:theme
+		ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:27:13-60
+meta-data#flutterEmbedding
+ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:32:9-34:33
+	android:value
+		ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:34:13-30
+	android:name
+		ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml:33:13-44
+uses-sdk
+INJECTED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml
+MERGED from [:flutter_full_pdf_viewer] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\flutter_full_pdf_viewer\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_full_pdf_viewer] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\flutter_full_pdf_viewer\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_ex] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\path_provider_ex\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_ex] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\path_provider_ex\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:open_file] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:open_file] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-44
+MERGED from [:flutter_statusbarcolor] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\flutter_statusbarcolor\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_statusbarcolor] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\flutter_statusbarcolor\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\3adbe5e0d22a90d80ae09f89de45b8d6\jetified-android-pdf-viewer-2.8.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\3adbe5e0d22a90d80ae09f89de45b8d6\jetified-android-pdf-viewer-2.8.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\cdbd4d86045f4ac1509678c8262a2360\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\cdbd4d86045f4ac1509678c8262a2360\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\1ff18b17db3d55e37ef29998d2f14b01\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\1ff18b17db3d55e37ef29998d2f14b01\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\3d2346f77cde9726d2b5e612f4194e6b\firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\3d2346f77cde9726d2b5e612f4194e6b\firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\7d785a340783680934d6233ed99674ab\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\7d785a340783680934d6233ed99674ab\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.yalantis:ucrop:2.2.7] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\2612d5a8fb39e0de47f325f9044b97c4\ucrop-2.2.7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.7] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\2612d5a8fb39e0de47f325f9044b97c4\ucrop-2.2.7\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\44944419d1b8aafabe40115dcb661c75\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\44944419d1b8aafabe40115dcb661c75\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\2219bc8eab4b2e55803881dec76cec8a\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\2219bc8eab4b2e55803881dec76cec8a\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\554d4b275ed56cf91c4d207d77bd63de\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\554d4b275ed56cf91c4d207d77bd63de\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\646de526d41c26bd24be982952b37e9b\jetified-pdfium-android-1.7.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\646de526d41c26bd24be982952b37e9b\jetified-pdfium-android-1.7.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\00c31c73e3b276590137271a241d70cf\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\00c31c73e3b276590137271a241d70cf\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\3c4ac8efc6a4eae1bbb98eb7b3ef011d\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\3c4ac8efc6a4eae1bbb98eb7b3ef011d\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\abe8e55c745985941db7ec096b763748\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\abe8e55c745985941db7ec096b763748\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\fa21b137817032632155ab42d82708de\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\fa21b137817032632155ab42d82708de\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\fc9a1df8b054c948d8b81cec93eaafd5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\fc9a1df8b054c948d8b81cec93eaafd5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\20761deb0bf7df12cf9f92e87d4fa57a\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\20761deb0bf7df12cf9f92e87d4fa57a\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\88fc16e2c0d4d4869590c4bb9f369c51\play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\88fc16e2c0d4d4869590c4bb9f369c51\play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\a48c90d9b2b7ac49d524413f4280d62b\firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\a48c90d9b2b7ac49d524413f4280d62b\firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\a2c962e9af3176d0811c8d8279f6afc9\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\a2c962e9af3176d0811c8d8279f6afc9\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\73453b05b4beb24fa162a13fbb335d13\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\73453b05b4beb24fa162a13fbb335d13\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\5fe9b27af78401f34daa1d3b965b5e01\jetified-play-services-basement-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\5fe9b27af78401f34daa1d3b965b5e01\jetified-play-services-basement-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\60ea119ae88624c226bac4493fe7df90\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\60ea119ae88624c226bac4493fe7df90\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\a745acb42cc27dbcf85cc03335d46435\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\a745acb42cc27dbcf85cc03335d46435\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\53f02df9f762b0a77e88437cd652d3a2\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\53f02df9f762b0a77e88437cd652d3a2\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\90ff6e10bce2c9989206f6fceada4b0f\activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\90ff6e10bce2c9989206f6fceada4b0f\activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\05aed516941fcaab54be40255ccf10f3\appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\05aed516941fcaab54be40255ccf10f3\appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\62fc40acc097d658c76e45a7f364b700\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\62fc40acc097d658c76e45a7f364b700\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\0e72f5930aaf09e61d3bfce587443d9f\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\0e72f5930aaf09e61d3bfce587443d9f\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\1ad35fe7bdf6cf1f773e76ad9136c5db\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\1ad35fe7bdf6cf1f773e76ad9136c5db\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\6f97eb0c454d6f644d556d589d50350d\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\6f97eb0c454d6f644d556d589d50350d\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\074fc2707a371335802bb4efe972322e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\074fc2707a371335802bb4efe972322e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\3c2825570e777dcbfc9c898476268418\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\3c2825570e777dcbfc9c898476268418\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\a536df8d47be681a7d8bd8618b10a5bc\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\a536df8d47be681a7d8bd8618b10a5bc\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\21bc6e7e66744caed47d2b4c2eebc7cc\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\21bc6e7e66744caed47d2b4c2eebc7cc\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\1805489a863a0f66145bf38ac031fa6e\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\1805489a863a0f66145bf38ac031fa6e\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\7c9daea49f1b172b530bc977f3a7d796\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\7c9daea49f1b172b530bc977f3a7d796\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\738a08a02af7c8f60ea48846f60fe0d1\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\738a08a02af7c8f60ea48846f60fe0d1\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\0d70449dc7572d725ad85579b5a4d8fc\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\0d70449dc7572d725ad85579b5a4d8fc\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\e416c620a0b8990b0531dd26d517b8af\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\e416c620a0b8990b0531dd26d517b8af\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\8b2cbf815ae2fbc858171b9aa71492f7\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\8b2cbf815ae2fbc858171b9aa71492f7\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\fa18a8c8b68283be35770fa17fa1d002\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\fa18a8c8b68283be35770fa17fa1d002\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\83d7fa5c6450c042d9e054a5809a02ab\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\83d7fa5c6450c042d9e054a5809a02ab\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\04f5f3a1f68d8d58ca7fa86a9130ae2e\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\04f5f3a1f68d8d58ca7fa86a9130ae2e\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\daaa6850005c62f99f6c82bd76af5d58\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\daaa6850005c62f99f6c82bd76af5d58\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\b70276516a307c8b999f7daed7bc5be4\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\b70276516a307c8b999f7daed7bc5be4\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\e3ccb0d5021569bea28d38c908d3a343\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\e3ccb0d5021569bea28d38c908d3a343\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\84ac0d66fe2789f4c10890cfea6e2bbf\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\84ac0d66fe2789f4c10890cfea6e2bbf\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\b7ebc3f578ad21192e0673fadb23156e\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\b7ebc3f578ad21192e0673fadb23156e\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\f37a8af050140272ba721a8926ead07b\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\f37a8af050140272ba721a8926ead07b\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\386e74402932fccaad3c1a6f0bf85a82\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\386e74402932fccaad3c1a6f0bf85a82\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [io.grpc:grpc-android:1.41.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\9b5e6d4e2a3d5d9a3fabf71d41cf0027\grpc-android-1.41.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.41.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\9b5e6d4e2a3d5d9a3fabf71d41cf0027\grpc-android-1.41.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\e1c22183e1dfcf67e2a5580870cacefa\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\e1c22183e1dfcf67e2a5580870cacefa\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\ef60d468518f9d46559dc2ea0cb6209d\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\ef60d468518f9d46559dc2ea0cb6209d\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\debug\AndroidManifest.xml:6:5-66
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\cdbd4d86045f4ac1509678c8262a2360\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\cdbd4d86045f4ac1509678c8262a2360\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\android\app\src\debug\AndroidManifest.xml:6:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:cloud_firestore] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\cdbd4d86045f4ac1509678c8262a2360\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\cdbd4d86045f4ac1509678c8262a2360\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\7d785a340783680934d6233ed99674ab\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\7d785a340783680934d6233ed99674ab\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:76:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\7d785a340783680934d6233ed99674ab\jetified-firebase-common-20.0.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\7d785a340783680934d6233ed99674ab\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:cloud_firestore] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
+ADDED from [:cloud_firestore] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-134
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
+ADDED from [:firebase_auth] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from [:open_file] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-83
+	android:name
+		ADDED from [:open_file] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-80
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:open_file] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from [:open_file] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-77
+provider#com.crazecoder.openfile.FileProvider
+ADDED from [:open_file] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-21:20
+	android:grantUriPermissions
+		ADDED from [:open_file] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:open_file] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-88
+	android:exported
+		ADDED from [:open_file] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	tools:replace
+		ADDED from [:open_file] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-48
+	android:name
+		ADDED from [:open_file] C:\Users\Asad Hayyat\AndroidStudioProjects\CamsacnnerClone-master\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\cdbd4d86045f4ac1509678c8262a2360\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\cdbd4d86045f4ac1509678c8262a2360\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.41.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\9b5e6d4e2a3d5d9a3fabf71d41cf0027\grpc-android-1.41.0\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.41.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\9b5e6d4e2a3d5d9a3fabf71d41cf0027\grpc-android-1.41.0\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\70b5fc075a23e46456007132dba27aa6\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\cdbd4d86045f4ac1509678c8262a2360\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\cdbd4d86045f4ac1509678c8262a2360\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\cdbd4d86045f4ac1509678c8262a2360\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:21:17-111
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\7d785a340783680934d6233ed99674ab\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\7d785a340783680934d6233ed99674ab\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\7d785a340783680934d6233ed99674ab\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\7d785a340783680934d6233ed99674ab\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\7d785a340783680934d6233ed99674ab\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\7d785a340783680934d6233ed99674ab\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\a2c962e9af3176d0811c8d8279f6afc9\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\a2c962e9af3176d0811c8d8279f6afc9\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\a2c962e9af3176d0811c8d8279f6afc9\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\a2c962e9af3176d0811c8d8279f6afc9\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\5fe9b27af78401f34daa1d3b965b5e01\jetified-play-services-basement-17.1.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\5fe9b27af78401f34daa1d3b965b5e01\jetified-play-services-basement-17.1.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Asad Hayyat\.gradle\caches\transforms-2\files-2.1\5fe9b27af78401f34daa1d3b965b5e01\jetified-play-services-basement-17.1.0\AndroidManifest.xml:24:13-58
