@@ -1,4 +1,4 @@
-# SwiftCamScanner
+# CamScanner Clone in FLutter
 
 ## Overview
 # ![Demo GIF](https://raw.githubusercontent.com/AsadHayat89/camscanner-clone/main/screenshots/CAm%20Vedio.gif)
